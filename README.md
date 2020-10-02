@@ -1,0 +1,2 @@
+# Segitiga
+Belajar C++
